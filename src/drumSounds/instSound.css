@@ -1,0 +1,97 @@
+.tripod {
+  transform: translateX(-240%) translateY(-89%);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 150px;
+  height: 250px;
+}
+.cymbal {
+  transform: translateX(-320%) translateY(-270%) rotate(90deg);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 100px;
+  height: 150px;
+  cursor: pointer;
+}
+.small-drum {
+  transform: translateX(-220%) translateY(-420%) rotate(45deg);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 100px;
+  cursor: pointer;
+}
+
+.tripod2 {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-140%) translateY(-98%);
+  width: 200px;
+}
+
+.upper-drum1 {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-10%) translateY(-250%);
+  width: 150px;
+  cursor: pointer;
+}
+
+.upper-drum {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-90%) translateY(-250%);
+  width: 150px;
+  cursor: pointer;
+}
+
+.middle-drum {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(-90%);
+  width: 250px;
+  cursor: pointer;
+}
+
+.right-drum {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(50%) translateY(-80%);
+  width: 250px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.tripod3 {
+  transform: translateX(0%) translateY(-50%);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 400px;
+}
+
+.cymbal-together {
+  transform: translateX(60%) translateY(-240%);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 200px;
+  z-index: 3;
+  cursor: pointer;
+}
+.cymbal-together1 {
+  transform: translateX(58%) translateY(-245%);
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 200px;
+  z-index: 4;
+  cursor: pointer;
+}

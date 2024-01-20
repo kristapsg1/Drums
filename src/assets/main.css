@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+  background-image: url('https://innovativepanel.com/wp-content/uploads/2015/05/performance-stage-fi.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  /* Other background-related properties if needed */
+}
